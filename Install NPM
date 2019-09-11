@@ -1,0 +1,3 @@
+npm install -g @squarespace/server
+
+npm start:auth
